@@ -5,9 +5,8 @@ I've put together this repo as a resource for you to be able to review what we'v
 ####Contents
 + [01 - Intro To Swift](https://github.com/KyleGoslan/App-Workshops/tree/master/01%20-%20Intro%20To%20Swift)
 
-+ [02 - User Location](https://github.com/KyleGoslan/App-Workshops/tree/master/02%20-%20User%20Location)
-
-+ [03 - Reverse Geocoding](https://github.com/KyleGoslan/App-Workshops/tree/master/03%20-%20Reverse%20Geocoding)
++ [02 - Basic App]
+http://localhost/phpmyadmin/
 
 ####Tips
 + [Tips](https://github.com/KyleGoslan/App-Workshops/blob/master/Tips.md) 
