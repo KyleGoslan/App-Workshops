@@ -1,4 +1,4 @@
-# 06 - iBeacons
+# 07 - iBeacons
 
 ## Open Weather Map API Key 
 
